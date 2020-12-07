@@ -1,0 +1,1 @@
+# Extract-text-from-videos-using-EasyOCR
